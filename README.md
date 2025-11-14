@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left">Hi 👋<br>I'm Mahmoud Siliman a Senior Frontend Developer with a computer science degree and more than 5 years of experience<br>building high-performance, scalable, and user-friendly web applications. Expertise in TypeScript, Vue,<br>Nuxt.js as a modern JavaScript frameworks, with a strong focus on responsive design, state management, and performance optimization</h3>
+<h3 align="center">Hi 👋<br>I'm Mahmoud Siliman a Senior Frontend Developer with a computer science degree and more than 5 years of experience<br>building high-performance, scalable, and user-friendly web applications. Expertise in TypeScript, Vue,<br>Nuxt.js as a modern JavaScript frameworks, with a strong focus on responsive design, state management, and performance optimization</h3>
 
 ###
 
@@ -65,5 +65,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudsiliman75&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudsiliman75&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoudsiliman75/mahmoudsiliman75/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmoudsiliman75/mahmoudsiliman75/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mahmoudsiliman75/mahmoudsiliman75/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
