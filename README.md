@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Senior Frontend Developer with a computer science degree and 4.5+ years of experience <br>building high-performance, scalable, and user-friendly web applications. Expertise in Vue, TypeScript, <br>Nuxt.js as a modern JavaScript frameworks, with a strong focus on responsive design, state <br>management, and performance optimization
+I'm a passionate Senior Frontend Developer with a computer science degree and more than 5 years of experience <br>building high-performance, scalable, and user-friendly web applications. Expertise in Vue, TypeScript, <br>Nuxt.js as a modern JavaScript frameworks, with a strong focus on responsive design, state <br>management, and performance optimization
 
 
 ## 🌐 Socials:
