@@ -12,8 +12,6 @@ I'm a passionate Senior Frontend Developer with a computer science degree and 4.
 ![](https://nirzak-streak-stats.vercel.app/?user=mahmoudsiliman75&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsiliman75&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahmoudsiliman75&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
