@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">Hi 👋<br>I'm Mahmoud Siliman a I am a Senior Frontend Developer with more than 5 years of experience building high-performance, scalable web applications using Vue.js, Nuxt.js, TypeScript, and modern frontend architectures. I focus on delivering clean code, exceptional UI/UX, fast-loading interfaces, and scalable component systems.</h3>
+<h3 align="center">Hi 👋<br>I'm Mahmoud Siliman a Senior Frontend Developer with more than 5 years of experience building high-performance, scalable web applications using Vue.js, Nuxt.js, TypeScript, and modern frontend architectures. I focus on delivering clean code, exceptional UI/UX, fast-loading interfaces, and scalable component systems.</h3>
 
 ###
 
